@@ -1,5 +1,3 @@
-<h2 align="left">Hi Developers 👋!</h2>
-
 # ✨ About Me:
 
 I'm a developer based in India with a passion for creating robust and scalable applications. With a keen interest in both backend and frontend technologies, I strive to build solutions that are efficient, user-friendly, and impactful.
