@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ About Me:
 
-<!--
-**NarayanaGudiwada/NarayanaGudiwada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer based in India with a passion for creating robust and scalable applications. With a keen interest in both backend and frontend technologies, I strive to build solutions that are efficient, user-friendly, and impactful.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+
+### 🚀 Backend Skills
+- **Languages/Frameworks**: Java, Spring Boot, Node.js, Express.js, Python, Flask
+- **APIs**: RESTful APIs
+
+### 🎨 Frontend Skills
+- **Frameworks/Libraries**: React.js, Recoil (state management in React)
+- **Languages**: HTML, CSS, JavaScript
+
+---
